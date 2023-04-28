@@ -1,4 +1,4 @@
-public class TestDollar {
+public class Test {
   public void testMultiplication() {
     Money five = Money.dollar(5);
     assertEquals(Money.dollar(10), five.times(2));
